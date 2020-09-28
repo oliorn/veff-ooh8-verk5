@@ -1,0 +1,44 @@
+/*
+Global stílar
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Open Sans', helvetica, arial, sans-serif;
+  color: #222222;
+}
+
+a {
+  color: #222222;
+}
+
+button {
+
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montaga', Georgia, serif;
+}
+
+/* Header */
+
+
+/* Meginmál */
+
+
+/* Events */
+
+.events {
+
+}
+
+/* books */
+
+.books {
+}
